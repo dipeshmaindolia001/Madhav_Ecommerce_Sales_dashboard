@@ -7,6 +7,7 @@ This is my first end-to-end Microsoft Power BI project built using retail store 
 The dashboard helps transform raw retail data into meaningful business insights that can support better decision-making.
 
 ---
+![Dashboard Image](Madhav%20Store%20dashboard.jpg)
 
 ## Objectives
 
